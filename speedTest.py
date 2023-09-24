@@ -18,7 +18,10 @@ def timeDelay(start,end,user):
 
     return round(speed)
 
-test = ["My name is anirudh","i live i kalyan","I study in Ruia College"]
+test = ["On a sunny day, I enjoy taking long walks in the park with my friendly and energetic dog, Max.",
+        "The sun is bright and the sky is blue.",
+        "She walked to the store, bought some groceries, and then caught the bus home.",
+       "The cat chased the mouse."]
 test1 = r.choice(test)
 print(" ***************typing Speed***************")
 print()
